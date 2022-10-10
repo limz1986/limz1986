@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joshua
 - 👀 I’m interested in the development and deployment of ML models on Saas, Paas  
-- 🌱 I’m currently learning Hadoop, PySpark
+- 🌱 I’m currently learning Hadoop, PySpark, Docker, Git, Flask
 - 💞️ I’m looking to collaborate on the deployment of ML models 
 - 📫 How to reach me joshualim.2020@msa.smu.edu.sg
 
